@@ -4,10 +4,15 @@ Exercise Tracker is a full-stack JavaScript web application that allows users to
 Features
 
   User Registration: Create a new account by providing a unique username to access the app's features.
+  
   Exercise Logging: Log your workouts by specifying the exercise description, duration, and optionally, the exercise date. If no date is given, the current date will be used.
+  
   Exercise History: View a detailed history of all logged exercises, including descriptions, durations, and dates.
+  
   Date Range Filtering: Filter your exercise log by specifying a date range to analyze your progress during specific periods.
+  
   User Statistics: Obtain personalized fitness statistics, such as the total number of exercises performed and the average exercise duration.
+  
   User List: Explore a list of all registered users and discover what others are accomplishing in their exercise routines.
 
 Tech Stack
