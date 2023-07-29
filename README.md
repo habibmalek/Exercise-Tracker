@@ -1,6 +1,7 @@
 # Exercise-Tracker
 Exercise Tracker is a full-stack JavaScript web application that allows users to log their exercise routines and monitor their progress. With an intuitive interface, users can record exercise details like description, duration, and date, and view their exercise history and statistics.
 
+
 Features
 
   User Registration: Create a new account by providing a unique username to access the app's features.
@@ -15,12 +16,14 @@ Features
   
   User List: Explore a list of all registered users and discover what others are accomplishing in their exercise routines.
 
+
 Tech Stack
 
   Front-end: HTML, CSS, JavaScript, and React for building an interactive user interface.
   Back-end: Node.js and Express.js for handling server-side logic and API endpoints.
   Database: MongoDB to store user information and exercise data.
   Hosting: GitHub Pages for easy deployment and accessibility.
+
 
 Getting Started
   Follow these steps to get the Exercise Tracker app up and running on your local machine:
