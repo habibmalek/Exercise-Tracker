@@ -21,7 +21,7 @@ Getting Started
 Follow these steps to get the Exercise Tracker app up and running on your local machine:
 
 1. Clone this repository to your local environment using the following command:
-git clone https://github.com/your-username/exercise-tracker.git
+git clone https://github.com/habibmalek/exercise-tracker.git
 
 2. Navigate to the project directory:
 cd exercise-tracker
